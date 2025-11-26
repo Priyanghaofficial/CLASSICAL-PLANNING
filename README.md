@@ -53,10 +53,7 @@ print(plan)
 
 # Program
 
-```
-Name: RAHINI A
-Register Number: 212223230165
-```
+
 ```
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
